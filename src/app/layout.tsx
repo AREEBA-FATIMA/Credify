@@ -1,9 +1,4 @@
-import type { Metadata } from "next";
-import localFont from "next/font/local";
-import Head from "next/head";
 import "./globals.css";
-import Script from "next/script";
-
 
 export default function RootLayout({
   children,
